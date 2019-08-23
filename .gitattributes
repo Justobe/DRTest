@@ -1,1 +1,2 @@
 models/mnist_googlenet.zip filter=lfs diff=lfs merge=lfs -text
+models/mnist_vgg.zip filter=lfs diff=lfs merge=lfs -text
